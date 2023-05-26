@@ -47,7 +47,7 @@ body {
 
 
 .slide-one{
-  background-image: url('./images/4.jpg');
+  background-image: url('https://i.ibb.co/8bYts1M/4.jpg');
   background-size: cover;
   
   width: 100%;
@@ -56,7 +56,7 @@ body {
 
 
 .slide-two{
-  background-image: url('./images/5.jpg');
+  background-image: url('https://i.ibb.co/3pyfKqR/5.jpg');
   background-size: cover;
   
   width: 100%;
@@ -65,7 +65,7 @@ body {
 
 
 .slide-three{
-  background-image: url('./images/6.jpg');
+  background-image: url('https://i.ibb.co/7z3cRv0/6.jpg');
   background-size: cover;
   
   width: 100%;
