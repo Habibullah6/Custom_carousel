@@ -41,7 +41,7 @@ export default function App() {
               <button className="px-8 py-3 m-2 text-lg font-semibold rounded bg-purple-600 ">
                 Get started
               </button>
-              <button className="px-8 py-3 m-2 text-lg  border-2  rounded border-purple-600">
+              <button className="px-8 py-3 m-2 text-lg  border-2 hover:bg-purple-600    rounded border-purple-600">
                 Learn more
               </button>
             </div>
@@ -63,7 +63,7 @@ export default function App() {
               <button className="px-8 py-3 m-2 text-lg font-semibold rounded bg-purple-600 ">
                 Get started
               </button>
-              <button className="px-8 py-3 m-2 text-lg  border-2  rounded border-purple-600">
+              <button className="px-8 py-3 m-2 text-lg  border-2  rounded border-purple-600 hover:bg-purple-600  ">
                 Learn more
               </button>
             </div>
@@ -85,7 +85,7 @@ export default function App() {
               <button className="px-8 py-3 m-2 text-lg font-semibold rounded bg-purple-600 ">
                 Get started
               </button>
-              <button className="px-8 py-3 m-2 text-lg  border-2  rounded border-purple-600">
+              <button className="px-8 py-3 m-2 text-lg  border-2 hover:bg-purple-600  rounded border-purple-600">
                 Learn more
               </button>
             </div>
